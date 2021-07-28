@@ -1,2 +1,2 @@
-<h1>Hi There, I am <a  href="https://www.linkedin.com/in/vikramjeet-khatore-a809369a/">Vikramjeet</a> <img  src="https://codingeeks.in/media/Users/vik_FwMO0US.jpeg" width="30px"></h1>
+<h1>Hi There, I am <a  href="https://www.linkedin.com/in/vikramjeet-khatore-a809369a/">Vikramjeet</a> </h1>
 I'm a **Python Developer**, post graduated in **2020** from **Kurukshetra University** in **Computer Science** stream. My day to day work revolves around building python projects for various interseting problems and deploying them to production, at scale. In my free time I like to read blogs and participate in online contests. I am open to collaborate on interesting projects.
